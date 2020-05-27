@@ -1,0 +1,25 @@
+{
+  "name": "array-based-minigame",
+  "version": "1.0.0",
+  "description": "An array based odd minigame on vanilla Javascript. Customizable and adaptable to other uses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EldknMD/array-based-minigame.git"
+  },
+  "keywords": [
+    "array",
+    "pseudorandom",
+    "basic",
+    "function"
+  ],
+  "author": "EldknMD",
+  "license": "SEE LICENCE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/EldknMD/array-based-minigame/issues"
+  },
+  "homepage": "https://github.com/EldknMD/array-based-minigame#readme"
+}
