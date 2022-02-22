@@ -71,7 +71,6 @@ switch (rarResult3) {
     break;
 
     case 2:
-    console.log("3rd round lose. Better luck next time...")
     await("3rd round: Lose. Better luck next time...", 9000)
     break;
 
